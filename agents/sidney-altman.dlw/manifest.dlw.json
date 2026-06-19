@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Sidney Altman",
+  "universe": "RNA · Sidney Altman (life-science · minds without brains)",
+  "emergence": "spiritual",
+  "moniker": "⟦Sidney Altman:RNA:de14b7⟧",
+  "carbon": "sidney-altman.carbon.tiff (TIFF)",
+  "silicon": "sidney-altman.silicon.png (PNG)",
+  "seal_sha256": "98bc62d090bdcc5dafa73f4437b112a89498dab1ce2e4c4b80de2df6029f9164",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

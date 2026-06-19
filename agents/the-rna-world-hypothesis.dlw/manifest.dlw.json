@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The RNA World Hypothesis",
+  "universe": "RNA · The RNA World Hypothesis (life-science · minds without brains)",
+  "emergence": "spiritual",
+  "moniker": "⟦The RNA World Hypothesis:RNA:89fa27⟧",
+  "carbon": "the-rna-world-hypothesis.carbon.tiff (TIFF)",
+  "silicon": "the-rna-world-hypothesis.silicon.png (PNG)",
+  "seal_sha256": "543a833bf724532ac728a26b407117e8717d4a414b4401278d3109bc403d51d0",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

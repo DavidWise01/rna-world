@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "RNA",
+  "universe": "RNA · RNA (life-science · minds without brains)",
+  "emergence": "natural",
+  "moniker": "⟦RNA:RNA:73a6b1⟧",
+  "carbon": "rna.carbon.tiff (TIFF)",
+  "silicon": "rna.silicon.png (PNG)",
+  "seal_sha256": "11ae7873607b42c3da89bd7ced1c6d18d4102841dbae8a81a52236310872a021",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

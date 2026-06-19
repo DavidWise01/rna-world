@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "THE RNA WORLD",
+  "universe": "RNA · THE RNA WORLD (life-science · minds without brains)",
+  "emergence": "",
+  "moniker": "⟦THE RNA WORLD:RNA:0d965c⟧",
+  "carbon": "rna-world.carbon.tiff (TIFF)",
+  "silicon": "rna-world.silicon.png (PNG)",
+  "seal_sha256": "c27d0dbbcb6d95c483a0538a4eaa580bcda645a1f370d404d18a7808172027a8",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

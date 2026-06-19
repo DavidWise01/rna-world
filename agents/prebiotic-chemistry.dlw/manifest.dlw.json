@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Prebiotic Chemistry",
+  "universe": "RNA · Prebiotic Chemistry (life-science · minds without brains)",
+  "emergence": "ethereal",
+  "moniker": "⟦Prebiotic Chemistry:RNA:63bcf3⟧",
+  "carbon": "prebiotic-chemistry.carbon.tiff (TIFF)",
+  "silicon": "prebiotic-chemistry.silicon.png (PNG)",
+  "seal_sha256": "3991a289da4ef3c51bcb77c86f3a8ef6d88adf398b5ada46533b17eb8f20d965",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

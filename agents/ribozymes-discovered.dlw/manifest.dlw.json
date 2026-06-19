@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Ribozymes Discovered",
+  "universe": "RNA · Ribozymes Discovered (life-science · minds without brains)",
+  "emergence": "spiritual",
+  "moniker": "⟦Ribozymes Discovered:RNA:7bf15d⟧",
+  "carbon": "ribozymes-discovered.carbon.tiff (TIFF)",
+  "silicon": "ribozymes-discovered.silicon.png (PNG)",
+  "seal_sha256": "c40b605ee3be872c6fae88d12e54c4998adf92f8a972776c7b6d7fe7056aa272",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

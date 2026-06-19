@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Carl Woese",
+  "universe": "RNA · Carl Woese (life-science · minds without brains)",
+  "emergence": "spiritual",
+  "moniker": "⟦Carl Woese:RNA:5142f4⟧",
+  "carbon": "carl-woese.carbon.tiff (TIFF)",
+  "silicon": "carl-woese.silicon.png (PNG)",
+  "seal_sha256": "d9eb8847169c5be46d80c767b239d126ffe362003152754d9860e7965a1b9e9c",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

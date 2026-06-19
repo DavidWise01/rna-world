@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Chicken & the Egg",
+  "universe": "RNA · The Chicken & the Egg (life-science · minds without brains)",
+  "emergence": "ethereal",
+  "moniker": "⟦The Chicken & the Egg:RNA:6b187c⟧",
+  "carbon": "the-chicken-and-egg.carbon.tiff (TIFF)",
+  "silicon": "the-chicken-and-egg.silicon.png (PNG)",
+  "seal_sha256": "5f565b6959f0baa07fbc845858b9f802c6a7f7ab38268870d5079316f1babba3",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

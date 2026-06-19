@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Viroids",
+  "universe": "RNA · Viroids (life-science · minds without brains)",
+  "emergence": "natural",
+  "moniker": "⟦Viroids:RNA:77d64f⟧",
+  "carbon": "viroids.carbon.tiff (TIFF)",
+  "silicon": "viroids.silicon.png (PNG)",
+  "seal_sha256": "6f2b4904702c8a1d3658d1a43d2b31ab18e8509325351d127cd985e3d6d03e6e",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}
